@@ -10,4 +10,4 @@ A multiple selection forms, modifyable using json.
 <img src="./public/images/ss-3.jpeg" width="250"/>
 
 
-### Click [here](https://github.com/Soocyang/multiple-select-form) for more 
+### Click [here](https://soocyang.github.io/multiple-select-form/) for more 
