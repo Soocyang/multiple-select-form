@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/multiple-select-form/static/css/main.97ab2b58.chunk.css",
+    "main.js": "/multiple-select-form/static/js/main.5dbaf887.chunk.js",
+    "main.js.map": "/multiple-select-form/static/js/main.5dbaf887.chunk.js.map",
+    "runtime-main.js": "/multiple-select-form/static/js/runtime-main.8900208d.js",
+    "runtime-main.js.map": "/multiple-select-form/static/js/runtime-main.8900208d.js.map",
+    "static/css/2.6b7487f1.chunk.css": "/multiple-select-form/static/css/2.6b7487f1.chunk.css",
+    "static/js/2.f57d1e47.chunk.js": "/multiple-select-form/static/js/2.f57d1e47.chunk.js",
+    "static/js/2.f57d1e47.chunk.js.map": "/multiple-select-form/static/js/2.f57d1e47.chunk.js.map",
+    "index.html": "/multiple-select-form/index.html",
+    "static/css/2.6b7487f1.chunk.css.map": "/multiple-select-form/static/css/2.6b7487f1.chunk.css.map",
+    "static/css/main.97ab2b58.chunk.css.map": "/multiple-select-form/static/css/main.97ab2b58.chunk.css.map",
+    "static/js/2.f57d1e47.chunk.js.LICENSE.txt": "/multiple-select-form/static/js/2.f57d1e47.chunk.js.LICENSE.txt",
+    "static/media/bg-food.53daafae.png": "/multiple-select-form/static/media/bg-food.53daafae.png",
+    "static/media/all.min.css": "/multiple-select-form/static/media/fa-regular-400.68c5af1f.woff2",
+    "static/media/solid.min.css": "/multiple-select-form/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8900208d.js",
+    "static/css/2.6b7487f1.chunk.css",
+    "static/js/2.f57d1e47.chunk.js",
+    "static/css/main.97ab2b58.chunk.css",
+    "static/js/main.5dbaf887.chunk.js"
+  ]
+}
