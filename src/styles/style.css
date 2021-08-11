@@ -1,0 +1,195 @@
+/* import font from Google */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+/* variables */
+html {
+  --msf-primary: #fccf10;
+  --msf-secondary: #fdf037;
+  --msf-danger: #b81f1f;
+  --msf-success: #00b900;
+  --msf-warning: #ffa14a;
+  --msf-background: #ffffff;
+  --msf-border: #dae1e7;
+  --msf-typography: #606f7b;
+  --msf-headline: #3d4852;
+  --msf-white-40: rgba(225, 225, 225, 0.4);
+  --light: #f1f1f1;
+  --msf-white: rgb(255, 255, 255);
+  --msf-black: rgb(0, 0, 0);
+  --msf-black-10: rgba(0, 0, 0, 0.1);
+  --msf-black-20: rgba(0, 0, 0, 0.2);
+  --msf-card-background: #ffffff;
+  --msf-sidebar-background: #f7fbff;
+  --msf-form-control-text: #495057;
+  --msf-form-control-bg: rgb(255, 255, 255);
+  --msf-text: #212529;
+  --msf-text-muted: #6c757d;
+  --msf-ddl-select-bg: #f1f1f1;
+
+  /* DEFAULT FONT SIZE */
+  --msf-font-normal: .9rem;
+  --msf-font-sidebar-icon: 1.45rem;
+  --msf-font-h3: 1.65rem;
+  --msf-font-h5: 1.15rem;
+
+}
+
+body{
+  font-family: 'Open Sans'; 
+  color: var(--msf-text) !important;
+  font-size: var(--msf-font-normal) !important;
+}
+
+.btn {
+  font-size: var(--msf-font-normal) !important;
+}
+
+.form-control{
+  font-size: var(--msf-font-normal) !important;
+}
+
+.h3{
+  font-size: var(--msf-font-h3) !important;
+}
+
+h5{
+  font-size: var(--msf-font-h5) !important;
+}
+
+.btn-primary {
+  background-color: var(--msf-primary) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+.btn-secondary {
+  background-color: var(--msf-secondary) !important;
+  border-color: var(--msf-secondary) !important;
+}
+
+.btn-outline-primary {
+  color: var(--msf-primary) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary.active  {
+  background-color: var(--msf-primary) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+.btn-outline-secondary {
+  color: var(--msf-primary) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary.active {
+  background-color: rgba(0, 71, 184, 0.1) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+.card.bnm-card {
+  background-color: var(--msf-card-background);
+  border: 0 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.card.bnm-card .card-header,
+.card.bnm-card .card-body {
+  background-color: transparent !important;
+  /*  */
+}
+
+.card.bnm-card .card-header {
+  text-align: left !important;
+  font-size: 1.5rem !important;
+  font-weight: bold !important;
+  border-bottom: 1px solid var(--msf-black-10) !important;
+}
+
+.card.bnm-card .card-footer {
+  border: 0 !important;
+  background-color: transparent !important;
+}
+
+.sub-card.bnm-card {
+  background-color: var(--msf-card-background);
+  box-shadow: none !important;
+}
+
+.sub-card.bnm-card .card-header {
+  font-size: var(--msf-font-normal) !important;
+  border: 0 !important;
+}
+
+.sub-card.bnm-card .card-body {
+  border: 1px var(--msf-border) solid !important;
+  border-radius: 8px !important;
+}
+
+.card.form-card {
+  padding: 1rem 1.5rem !important;
+}
+
+.card.form-card .card-body {
+  padding: 1.25rem 0rem !important;
+}
+
+.card.form-card .card-header {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 0 !important;
+}
+
+.sub-card.form-card {
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.sub-card.form-card .card-header {
+  padding: 0 !important;
+  padding-bottom: 0.4rem !important;
+}
+
+.sub-card.form-card .card-body {
+  padding: 1rem 1.25rem !important;
+}
+
+.form-group label.form-label.is-required:after {
+  content: ' *';
+  font-weight: 600;
+  color: #dc3545 !important;
+}
+
+.form-group .btn-group-toggle.is-invalid > label {
+  border-color: #dc3545 !important;
+}
+
+.btn-group-toggle .btn-outline-primary:hover,
+.btn-group-toggle .btn-outline-primary.active {
+  color: white !important;
+  background-color: var(--msf-primary) !important;
+  border-color: var(--msf-primary) !important;
+}
+
+
+.icon-button{
+  color: lightslategrey !important;
+  background-color: inherit !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.icon-button:hover{
+  color: black !important;
+}
+
+.icon-button:disabled{
+  color: lightgrey !important;
+}
+
+hr {
+  border-top: 1px solid var(--msf-black-10) !important;
+}

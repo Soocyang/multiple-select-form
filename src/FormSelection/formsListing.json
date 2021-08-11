@@ -1,0 +1,220 @@
+[
+    {
+        "value": "A",
+        "label": "Dairy",
+        "description": "Dairy",
+        "children": [
+            {
+                "value": "Cream",
+                "label": "Cream",
+                "description": "Can be eaten as an accompaniment to desserts or used as a cooking ingredient."
+            },
+            {
+                "value": "Yoghurt",
+                "label": "Yoghurt",
+                "description": "A semi-solid food prepared from milk fermented by added bacteria, often sweetened and flavoured."
+            },
+            {
+                "value": "Milk",
+                "label": "Milk",
+                "description": "The milk from cows (or goats or sheep)"
+            },
+            {
+                "value": "Egg",
+                "label": "Egg",
+                "description": "An oval or round object laid by a female bird"
+            }
+        ]
+    },
+    {
+        "value": "B",
+        "label": "Fruits",
+        "description": "Fruits",
+        "children": [
+            {
+                "value": "Orange",
+                "label": "Orange",
+                "description": "A large round juicy citrus fruit with a tough bright reddish-yellow rind."
+            },
+            {
+                "value": "Lemon",
+                "label": "Lemon",
+                "description": "A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice."
+            },
+            {
+                "value": "Mango",
+                "label": "Mango",
+                "description": "A fleshy, oval, yellowish-red tropical fruit that is eaten ripe or used green for pickles or chutneys."
+            },
+            {
+                "value": "Blueberries",
+                "label": "Blueberries",
+                "description": "a small sweet blue-black edible berry which grows in clusters on North American shrubs related to the bilberry."
+            },
+            {
+                "value": "Strawberries",
+                "label": "Strawberries",
+                "description": "a sweet soft red fruit with a seed-studded surface."
+            }
+
+        ]
+    },
+    {
+        "value": "C",
+        "label": "Vegetables",
+        "description": "Vegetables",
+        "children": [
+            {
+                "value": "Carrots",
+                "label": "Carrots",
+                "description": "A tapering orange-coloured root eaten as a vegetable."
+            },
+            {
+                "value": "Zucchini",
+                "label": "Zucchini",
+                "description": "The immature fruit of a vegetable marrow; a courgette."
+            },
+            {
+                "value": "Tomatoes",
+                "label": "Tomatoes",
+                "description": "A glossy red, or occasionally yellow, pulpy edible fruit that is eaten as a vegetable or in salad."
+            },
+            {
+                "value": "Eggplant",
+                "label": "Eggplant",
+                "description": "The purple egg-shaped fruit of a tropical Old World plant, which is eaten as a vegetable; an aubergine."
+            }
+        ]
+    },
+    {
+        "value": "D",
+        "label": "Grain, nuts and baking products",
+        "description": "Grain, nuts and baking products",
+        "children": [
+            {
+                "value": "Cocoa",
+                "label": "Cocoa",
+                "description": "a powder made from roasted and ground cacao seeds."
+            },
+            {
+                "value": "Sugar",
+                "label": "Sugar",
+                "description": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose, and used as a sweetener in food and drink."
+            },
+            {
+                "value": "Almonds",
+                "label": "Almonds",
+                "description": "The oval edible nutlike seed (kernel) of the almond tree, growing in a woody shell, widely used as food."
+            },
+            {
+                "value": "Cashew nuts",
+                "label": "Cashew nuts",
+                "description": "An edible kidney-shaped nut, rich in oil and protein, which is roasted and shelled before it can be eaten."
+            }
+        ]
+    },
+    {
+        "value": "E",
+        "label": "Meat",
+        "description": "Meat",
+        "children": [
+            {
+                "value": "Bacon",
+                "label": "Bacon",
+                "description": "Cured meat from the back or sides of a pig."
+            },
+            {
+                "value": "Ham",
+                "label": "Ham",
+                "description": "Salted or smoked meat from the upper part of a pig's leg."
+            },
+            {
+                "value": "Sausage",
+                "label": "Sausage",
+                "description": "A cylindrical length of minced pork or other meat encased in a skin, typically sold raw to be grilled or fried before eating."
+            },
+            {
+                "value": "Beef",
+                "label": "Beef",
+                "description": "The meat of a cow, bull, or ox."
+            },
+            {
+                "value": "Lamb",
+                "label": "Lamb",
+                "description": "The meat of a lamb as food."
+            },
+            {
+                "value": "Chicken",
+                "label": "Chicken",
+                "description": "Meat from a chicken."
+            }
+
+        ]
+    },
+    {
+        "value": "F",
+        "label": "Dried Spices",
+        "description": "Dried Spices",
+        "children": [
+            {
+                "value": "Paprika",
+                "label": "Paprika",
+                "description": "A powdered spice with a deep orange-red colour and a mildly pungent flavour, made from the dried and ground fruits of certain varieties of pepper."
+            },
+            {
+                "value": "Cinnamon",
+                "label": "Cinnamon",
+                "description": "An aromatic spice made from the peeled, dried, and rolled bark of a SE Asian tree."
+            },
+            {
+                "value": "Garlic powder",
+                "label": "Garlic powder",
+                "description": "Garlic powder is a spice that is derived from dehydrated garlic and used in cooking for flavour enhancement."
+            },
+            {
+                "value": "Onion powder",
+                "label": "Onion powder",
+                "description": "Onion powder is dehydrated, ground onion that is commonly used as a seasoning."
+            }
+        ]
+    },
+    {
+        "value": "G",
+        "label": "Grains ",
+        "description": "Grains ",
+        "children": [
+            {
+                "value": "Breads",
+                "label": "Breads",
+                "description": "Food made of flour, water, and yeast mixed together and baked."
+            },
+            {
+                "value": "Rice",
+                "label": "Rice",
+                "description": "The grains of rice"
+            },
+            {
+                "value": "Corn",
+                "label": "Corn",
+                "description": "The grain of a cereal crop"
+            },
+            {
+                "value": "Noodles",
+                "label": "Noodles",
+                "description": "A very thin, long strip of pasta or a similar flour paste, eaten with a sauce or in a soup."
+            }
+        ]
+    },
+    {
+        "value": "H",
+        "label": "Others",
+        "description": "Others",
+        "children": [
+            {
+                "value": "Honey",
+                "label": "Honey",
+                "description": "A sweet, sticky yellowish-brown fluid made by bees and other insects from nectar collected from flowers."
+            }
+        ]
+    }
+]
