@@ -1,6 +1,6 @@
 ## Ingredient Picker (A multiple selection form)
 
-A multiple selection forms, modifyable using json. This project is using ReactJs and React-Bootstrap.
+A multiple selection forms, modifiable using json. This project is using ReactJs and React-Bootstrap.
 
 ### Showcase
 <img src="./screenshot/ss-1.jpeg" width="750"/>
