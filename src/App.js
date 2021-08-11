@@ -1,5 +1,6 @@
 import FormSelection from "./FormSelection/FormSelection.jsx";
 import { Container } from "react-bootstrap";
+import background from "./images/bg-food.png";
 
 function App() {
 	return (
@@ -7,7 +8,7 @@ function App() {
 			<div
 				style={{
 					height: "100vh",
-					backgroundImage: "url(/images/bg-food.png)",
+					backgroundImage: `url(${background})`,
 					backgroundPosition: "center center",
 					backgroundRepeat: "no-repeat",
 					backgroundSize: "cover",
